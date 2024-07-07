@@ -9,7 +9,7 @@ export const Contact = () => {
   return (
     <div>
       <div className="contact">
-        <img className='pic-logo'src={ishaq} alt="" />
+        <img className='pic-logo'src="https://i.ibb.co/Hxfq5qz/ishaq.jpg" alt="" />
         <p className="name">Ishaq Usman</p>
         <p className='address '>Department of Software Engineering, <br />Faculty of Computing, <br /> Bayero University Kano.</p>
         <div className="icons">
