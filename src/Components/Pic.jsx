@@ -1,6 +1,6 @@
 import React from 'react'
-import ishaq from '../assets/COLOR_POP_2-removebg-preview.png'
-import ishaq2 from '../assets/IMG_20240617_200945_121-removebg.png'
+// import ishaq from '../assets/COLOR_POP_2-removebg-preview.png'
+// import ishaq2 from '../assets/IMG_20240617_200945_121-removebg.png'
 
 
 const Pic = () => {

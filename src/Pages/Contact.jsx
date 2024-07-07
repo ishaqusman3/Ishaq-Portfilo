@@ -1,5 +1,5 @@
 import React from 'react'
-import ishaq from '../assets/ishaq.jpg'
+// import ishaq from '../assets/ishaq.jpg'
 import { FaWhatsapp, FaFacebook } from 'react-icons/fa'
 import { BsInstagram, BsGithub, BsLinkedin, BsTwitterX } from 'react-icons/bs'
 
